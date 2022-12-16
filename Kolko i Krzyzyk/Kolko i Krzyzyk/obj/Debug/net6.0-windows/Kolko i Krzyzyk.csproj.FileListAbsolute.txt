@@ -1,0 +1,17 @@
+C:\Users\Robert.Jankowski\source\repos\Kolko i Krzyzyk\Kolko i Krzyzyk\bin\Debug\net6.0-windows\Kolko i Krzyzyk.exe
+C:\Users\Robert.Jankowski\source\repos\Kolko i Krzyzyk\Kolko i Krzyzyk\bin\Debug\net6.0-windows\Kolko i Krzyzyk.deps.json
+C:\Users\Robert.Jankowski\source\repos\Kolko i Krzyzyk\Kolko i Krzyzyk\bin\Debug\net6.0-windows\Kolko i Krzyzyk.runtimeconfig.json
+C:\Users\Robert.Jankowski\source\repos\Kolko i Krzyzyk\Kolko i Krzyzyk\bin\Debug\net6.0-windows\Kolko i Krzyzyk.dll
+C:\Users\Robert.Jankowski\source\repos\Kolko i Krzyzyk\Kolko i Krzyzyk\bin\Debug\net6.0-windows\Kolko i Krzyzyk.pdb
+C:\Users\Robert.Jankowski\source\repos\Kolko i Krzyzyk\Kolko i Krzyzyk\obj\Debug\net6.0-windows\Kolko i Krzyzyk.csproj.AssemblyReference.cache
+C:\Users\Robert.Jankowski\source\repos\Kolko i Krzyzyk\Kolko i Krzyzyk\obj\Debug\net6.0-windows\Kolko_i_Krzyzyk.Form1.resources
+C:\Users\Robert.Jankowski\source\repos\Kolko i Krzyzyk\Kolko i Krzyzyk\obj\Debug\net6.0-windows\Kolko i Krzyzyk.csproj.GenerateResource.cache
+C:\Users\Robert.Jankowski\source\repos\Kolko i Krzyzyk\Kolko i Krzyzyk\obj\Debug\net6.0-windows\Kolko i Krzyzyk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert.Jankowski\source\repos\Kolko i Krzyzyk\Kolko i Krzyzyk\obj\Debug\net6.0-windows\Kolko i Krzyzyk.AssemblyInfoInputs.cache
+C:\Users\Robert.Jankowski\source\repos\Kolko i Krzyzyk\Kolko i Krzyzyk\obj\Debug\net6.0-windows\Kolko i Krzyzyk.AssemblyInfo.cs
+C:\Users\Robert.Jankowski\source\repos\Kolko i Krzyzyk\Kolko i Krzyzyk\obj\Debug\net6.0-windows\Kolko i Krzyzyk.csproj.CoreCompileInputs.cache
+C:\Users\Robert.Jankowski\source\repos\Kolko i Krzyzyk\Kolko i Krzyzyk\obj\Debug\net6.0-windows\Kolko i Krzyzyk.dll
+C:\Users\Robert.Jankowski\source\repos\Kolko i Krzyzyk\Kolko i Krzyzyk\obj\Debug\net6.0-windows\refint\Kolko i Krzyzyk.dll
+C:\Users\Robert.Jankowski\source\repos\Kolko i Krzyzyk\Kolko i Krzyzyk\obj\Debug\net6.0-windows\Kolko i Krzyzyk.pdb
+C:\Users\Robert.Jankowski\source\repos\Kolko i Krzyzyk\Kolko i Krzyzyk\obj\Debug\net6.0-windows\Kolko i Krzyzyk.genruntimeconfig.cache
+C:\Users\Robert.Jankowski\source\repos\Kolko i Krzyzyk\Kolko i Krzyzyk\obj\Debug\net6.0-windows\ref\Kolko i Krzyzyk.dll

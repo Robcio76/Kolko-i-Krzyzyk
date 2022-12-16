@@ -46,31 +46,7 @@ namespace Kolko_i_Krzyzyk
 
                     }
                 }
-            }bool win(char board[20][20], string &result) {
-     for (int i = 0; i < 3; ++ i) {
-        if ((board[i][0] != 0) && (board[i][0] == board[i][1]) 
-                        && (board[i][1] == board[i][2])) {
-            result = board[i][0];
-            return true;
-        }
-        if ((board[0][i] != 0) && (board[0][i] == board[1][i]) 
-                        && (board[1][i] == board[2][i])) {
-            result = board[0][i];
-            return true;
-        }            
-    }
-    if ((board[1][1] != 0) && (board[0][0] == board[1][1]) 
-                        && (board[1][1] == board[2][2])) {
-        result = board[1][1];
-        return true;
-    }
-    if ((board[1][1] != 0) && (board[0][2] == board[1][1]) 
-                        && (board[1][1] == board[2][0])) {
-        result = board[1][1];
-        return true;
-    }        
-    return false;
-}
+            }
         }
 
         private void pictureBox1_MouseClick(object sender, MouseEventArgs e)

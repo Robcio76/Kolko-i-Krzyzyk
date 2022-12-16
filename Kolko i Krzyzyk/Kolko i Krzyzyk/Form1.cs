@@ -133,9 +133,6 @@ namespace Kolko_i_Krzyzyk
                     && (board[0,17] == 1 )
                     && (board[0,18] == 1 )
                     && (board[0,19] == 1 )))
-
-
-
             {
                     
 
